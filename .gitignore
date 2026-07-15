@@ -61,15 +61,16 @@ htmlcov/
 
 # Output folders
 
-outputs/figures/
-outputs/forecasts/
-outputs/metrics/
+# outputs/figures/
+# outputs/forecasts/
+# outputs/metrics/
 outputs/model_objects/
+
 
 # Processed datasets
 
-data/processed/
-data/interim/
+# data/processed/
+# data/interim/
 
 # Ignore compiled libraries
 

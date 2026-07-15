@@ -1,0 +1,2 @@
+KPSS Statistic : 1.0757209918727448
+P Value : 0.01
