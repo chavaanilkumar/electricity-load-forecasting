@@ -1,0 +1,98 @@
+# Python cache
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+
+# Python environment variables
+
+.env
+
+# Python build files
+
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# Logs
+
+*.log
+
+# Model checkpoints
+
+*.keras
+*.h5
+*.ckpt
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Output folders
+
+outputs/figures/
+outputs/forecasts/
+outputs/metrics/
+outputs/model_objects/
+
+# Processed datasets
+
+data/processed/
+data/interim/
+
+# Ignore compiled libraries
+
+*.so
+*.dll
+*.dylib
+
+# Ignore pickle files
+
+*.pkl
+
+# Ignore TensorFlow cache
+
+.tensorflow/
+
+# Ignore local Python version
+
+.python-version
+
+# Ignore Spyder settings
+
+.spyproject/
+
+# Ignore Rope settings
+
+.ropeproject/
